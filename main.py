@@ -1,3 +1,3 @@
 import funcs
 
-print (a)
+print ('a')
